@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/110998103/199589861-f25ce44c-7e15-49a1-8c71-1bef667842ec.png)
+
+
+
 # `Plotly Challenge`
  ## `Project Overview ` <br/>
 
@@ -17,8 +21,8 @@ Using knowledge of JavaScript, Plotly, and D3.js, I created a horizontal bar cha
  
 Next I created a bubble chart to display the bacteria cultures per sample when an individual’s ID is selected from the dropdown menu on the webpage.
 
+![image](https://user-images.githubusercontent.com/110998103/199588400-0909078d-1d5d-44eb-867b-69480b913f7c.png)
 
-![16 6](https://user-images.githubusercontent.com/110998103/199107923-fafd0945-7c99-40e0-8276-e3b93a3bc04f.png)
 
  
 
